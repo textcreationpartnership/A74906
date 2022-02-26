@@ -1,0 +1,691 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rules of dispute, practised by Christ and his apostles, for deciding the controversies of that age, and our rule for the determining of our own. Or, The right use of spiritual weapons, against spiritual wickedness, and the darkness of this world in the Christians warfare against hereticks, schismaticks, Eph. 6.12 with false prophets and deceivers. Herin are also briefly explained, I. The terms set down in scripture, or the grounds of Christian dispute. II. That the form thereof may appear more cleer, you have herein several cases in scripture debated under the same form, and the places whence the arguments are drawn. / By an unworthy witness of the name and Gospel of Christ, John Brayne.</title>
+            <author>Brayne, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74906</idno>
+            <idno type="STC">Thomason E715_12</idno>
+            <idno type="EEBO-CITATION">50796667</idno>
+            <idno type="OCLC">ocm 50796667</idno>
+            <idno type="VID">166730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166730)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E715[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rules of dispute, practised by Christ and his apostles, for deciding the controversies of that age, and our rule for the determining of our own. Or, The right use of spiritual weapons, against spiritual wickedness, and the darkness of this world in the Christians warfare against hereticks, schismaticks, Eph. 6.12 with false prophets and deceivers. Herin are also briefly explained, I. The terms set down in scripture, or the grounds of Christian dispute. II. That the form thereof may appear more cleer, you have herein several cases in scripture debated under the same form, and the places whence the arguments are drawn. / By an unworthy witness of the name and Gospel of Christ, John Brayne.</title>
+                  <author>Brayne, John.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Moon, at the seven Stars neer the great north door of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious disputations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166730:1" rendition="simple:additions"/>
+            <p>THE Rules of Diſpute, practiſed by CHRIST and his APOSTLES, For deciding the controverſies of that Age, and our Rule for the determining of our own.</p>
+            <p>Or, The right uſe of ſpiritual weapons, againſt ſpiritual wickedneſs, and the darkneſs of this world in the Chriſtians warfare againſt Hereticks, Schiſma<g ref="char:EOLhyphen"/>ticks, <hi>Eph.</hi> 6.12 with falſe Prophets and deceivers.</p>
+            <p>Herein are alſo briefly contained, and explained,
+<list>
+                  <item>I. The Terms ſet down in Scripture, or the grounds of Chri<g ref="char:EOLhyphen"/>ſtian Diſpute.</item>
+                  <item>II. That the form thereof may appear more cleer, you have herein ſeveral caſes in Scripture debated under the ſame form, and the places whence the Arguments are drawn.</item>
+               </list>
+            </p>
+            <p>By an unworthy witneſs of the Name and Goſpel of Chriſt, JOHN BRAYNE.</p>
+            <q>
+               <bibl>
+                  <hi>Tertul. adverſ. Haereſ.</hi>
+               </bibl> Quid ergo Athenis &amp; Hieroſolymis, quid Academiae &amp; Eccleſiae, quid Haereticis &amp; Chriſtianis eſt?</q>
+            <q>
+               <bibl>
+                  <hi>Donatus in Hiſt. Affricae, p. 208.</hi>
+               </bibl> Dialecticas diſputationes non convenire Chriſti<g ref="char:EOLhyphen"/>anae religioni, &amp; Auguſtinum nil aliud eſſe quam contentioſum diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utatorem, qui <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugiendus aut cavendus magis quam refellendus revincenduſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> eſſet.</q>
+            <q>
+               <bibl>Lev. <hi>18.3.</hi>
+               </bibl> 
+               <hi>Ye ſhall not walk according to the cuſtoms of them I have brought you from.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Lactantius de Juſtitia, lib. 5. cap. 3.</hi>
+               </bibl> Quis poſſit indoctus inter ſe apta, &amp; cohaeren<g ref="char:EOLhyphen"/>tia fingere, quum Philoſophorum Plate, &amp; Ariſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eles, &amp; Epicurus, &amp; Zenon, ipſi ſibi repu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nantia &amp; contraria dixerint? haec enim eſt mendaciorum natura, ut Cohaerere non <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſſint illo um, <hi>viz.</hi> Apoſtolorum traditio, quia vera eſt, qua<g ref="char:EOLhyphen"/>dra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> undi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ac ſibi tot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſentit,</q>
+            <q>
+               <bibl>
+                  <hi>1</hi> Cor <hi>15.32.</hi>
+               </bibl> 
+               <hi>Paul ſpeaks of diſpute at Epheſus.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Moon,</hi> at the ſeven Stars neer the great north door of <hi>Pauls,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166730:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:166730:2"/>
+            <head>The Rules for Diſputes, practiſed by Chriſt and his Apoſtles.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He exerience I have had of the admirati<g ref="char:EOLhyphen"/>on the wiſe and unwiſe have been ta<g ref="char:EOLhyphen"/>ken up with humane and natural lear<g ref="char:EOLhyphen"/>ning, and the indignity and contempt God and his wiſdom have, and do daily ſuffer amongſt us thereby, invited me to undertake the writing on this ſubject.</p>
+            <p n="1">1 Say the learned, The advance of learning and Univerſities in the Nations was that by which they came to be civilized and reduced into order and frame of good policy and government.</p>
+            <p n="2">2 Learning ſlighted, Religion decayed: it being revived by <hi>Eraſmus, Luther, Melancthon,</hi> and others, Religion came to be reſtored.</p>
+            <p n="3">3 Say the vulgar, Can men that have not Arts and Sciences, men that never were at the Univerſity, be as good preachers as thoſe that ſtudied ſeven yeers therein, or as ſuch as are Do<g ref="char:EOLhyphen"/>ctors, Batchelors, Maſters? &amp;c.</p>
+            <p n="1">1 The learned know, That Gods word taught a people, civilizeth them by a more ſtronger conviction and cleerer light then Natures Law and power can do; yea, it doth not onely
+<pb n="2" facs="tcp:166730:3"/>civilize, but ſanctifie a people.</p>
+            <p n="2">2 It was not Univerſity-learning in <hi>Luthers</hi> days, unde<g ref="char:EOLhyphen"/>ceived the Nations, but the knowledge of the Scriptures. <hi>Lombard<g ref="char:punc">▪</g> Aquinas<g ref="char:punc">▪</g> Scotus</hi> and their Diſciples, hindered the truth then and now alſo.</p>
+            <p n="3">3 As Univerſities ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilize or benefit a Nation, ſo they corrup<g ref="char:EOLhyphen"/>ted and hindred the Church, and truth of God. Athens the mother of them, gave little entertainment to truth, when preached to them; <hi>Dam<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and a f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w others onely, believed therein: ſo that indeed and truth, Academical learning, or Phi<g ref="char:EOLhyphen"/>loſophy falſly ſo called, is no friend to Chriſt or his truth, nor no help to a Nations happineſs before God, nor no fit inſtru<g ref="char:EOLhyphen"/>ment for Gods work. Chriſt choſe not men ſo qualified.</p>
+            <p n="4">4 As for Tongue, ſince the gift thereof failed, God hath ſanctified the ſtudy of them ſo, as they ſerve to reveale the truth of God; which is not accounted among Academical learning.</p>
+            <p n="5">5 Hence God, as by <hi>Jeremy</hi> may complain of us, that we have left the fountain of living waters (God and his truth) and digged to our ſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es broken Ciſterns (of humane and heatheniſh wit) which will hold no water.</p>
+            <p n="6">6 It was the written truth of God, Chriſt prayed to ſancti<g ref="char:EOLhyphen"/>fie men by, Joh 17.17. and no other wiſdom; nay, the wiſ<g ref="char:EOLhyphen"/>dom of the world, that is, of natural wiſe men, is enmity with God. So that that is fulfilled i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, is mentioned by <hi>Paul,</hi> 1 Cor. 1.21. after that in the wiſdom of God, that is, of the word, the world by wiſdom (that is, of their own) knew not God: ſo that indeed Academical learning befits a Saint no better then <hi>Sauls</hi> Armour did <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> 1 Sam. 17.39, 40, 51. which is that Goliah defied the Hoaſts or Church of God, was over come by the ſhepherds ſling, and ſtones out of the Brook, or Arguments out of Scripture, deduced in the plain way of Truth.</p>
+            <p>Concluſion of this, is briefly thus: That as there is a rule in the Word to walk by, to talk by, to love, to teach by, to rule, to ſubmit by: ſo there is in the Word a rule to diſpute by, and convince gainſayers: from which ſhould men recede
+<pb n="3" facs="tcp:166730:3"/>in the tryal of controverſies, they ſhould no leſs ſin againſt the Goſpel, then thoſe that would not live by it; and muſt deny 2 Tim. 3.16, 17. and ſay, The word is not ſufficient to make perfect the man of God.</p>
+            <p>
+               <hi>Tertul.</hi> ſpeaking of <hi>Ariſtotle</hi> the Diſputen of the world, his Diſciples and learning, in his book againſt hereſies, ſays,</p>
+            <p>
+               <hi>Qui illis inſtit<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t dialecticam Artificem ſtruendi &amp; deſtru<g ref="char:EOLhyphen"/>ends verſipellem, in ſententiis c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>actam, in conjecturis duram in argument is operariam, contentione moleſtam etiam ſibi ipſi om<g ref="char:EOLhyphen"/>nia retract antem, ne quid omnino tract <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verit: Hui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> illae fabu<g ref="char:EOLhyphen"/>lae &amp; geneologia indeterminabiles &amp; quaeſtiones infructuoſae &amp; ſermones ſerpentes velut cancer, a quibus nos Apoſtolus refrae<g ref="char:EOLhyphen"/>nans nominatim philoſophiam &amp; inanem ſeductienem conte<g ref="char:EOLhyphen"/>ſtatus caveri oportere, ſcribens ad Coloſſenſes cap.</hi> 2. <hi>ver.</hi> 8.</p>
+            <p>
+               <hi>Ibid. Fuerat Athenis iſtam ſaptentiam humanam adfecta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<g ref="char:EOLhyphen"/>cem &amp; in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lla<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>icem veritatis, &amp;c.</hi> And it is not to be pre<g ref="char:EOLhyphen"/>termitted, that with the fall of the Truth and true Church was erected the Univerſity of <hi>Boront,</hi> about the yeer 430 by the Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, Cardinals, Biſhops, Emperour, and Senate of Rome. Of which, ſee my book of <hi>Fallen Churches reſtored,</hi> pag. 47.</p>
+            <p>Now that Diſputes ought to be managed according to the inſtitution of the Lord, and not the way and wiſdom of men, (beſides this) that Chriſt prayed for the ſanctification of it to its end, <hi>viz.</hi> that error might be ſubverted by it, the A<g ref="char:EOLhyphen"/>poſtle further confirms it, 1 Cor. 1.25. ſaying, that The fool<g ref="char:EOLhyphen"/>iſhneſs of God is wiſer then men; and the weakneſs of God is ſtronger then men: in which onely it will be given men to overcome error, and in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o way elſe.</p>
+            <p>To prepare the ſeveral differences among us for debate, and procure unity,</p>
+            <p n="1">1 Let the general heads in matters of Faith, wherein all a<g ref="char:EOLhyphen"/>gree, be firſt declared.</p>
+            <p n="2">2 That the moſt material points in which we diſſent, he firſt debated, and the reſt in their order.</p>
+            <p n="3">3 That the queſtion be rightly ſtated and agreed on, of points as they are to be debated.</p>
+            <p n="4">4 That theſe Queſtions, and the day and time in which
+<pb n="4" facs="tcp:166730:4"/>they are to be debated, with the place, be publiſhed fourteen days before, that diſcourſe may be had with the men profeſ<g ref="char:EOLhyphen"/>ſing or oppoſing the ſame.</p>
+            <p n="1">1 That ſo none may be ſurprized.</p>
+            <p n="2">2 That none may pretend delays.</p>
+            <p n="3">3 That truth may have a door opened to it to appear a<g ref="char:EOLhyphen"/>mong men.</p>
+            <p n="4">4 That order be obſerved in the debate; and ſuch onely to ſpeak, as are delegated by men of the differing judgements or Churches.</p>
+            <p n="5">5 That Notaries of both ſides be appointed to write the Arguments, &amp;c. of both ſides; and, on examination, to print them.</p>
+            <p n="6">6 That ſuch things that are not thought ſufficiently deter<g ref="char:EOLhyphen"/>mined on its day appointed, be deferred for future time to be appointed.</p>
+            <p n="1">1 That the poynts to be next debated, be not delayed.</p>
+            <p n="2">2 That the things concealed may be the more premedita<g ref="char:EOLhyphen"/>ted, and in the enſuing diſcourſe cleered, and each party may ſay what they can for themſelves and practice, or againſt that they judge unlawfully practiſed by others.</p>
+            <p>For the Tearms of the grounds of Chriſtian Diſpute,</p>
+            <p n="1">1 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignifieth the Queſtion about which the diffe<g ref="char:EOLhyphen"/>rence ariſeth, Joh. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.25. Act. 25.20. 1 Tim. 6.4.</p>
+            <p n="2">2 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in which is comprehended, both the Affirmation and the Negation of the Queſtion, the Opponent and Defen<g ref="char:EOLhyphen"/>dant, 1 Cor. 1.20. Act. 9.29. &amp; 15.1, 2. &amp; 28.29.</p>
+            <p n="3">3 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Act 17.2. &amp; 19.9, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0.</p>
+            <p n="1">1 Some Scripture from the Old or New-Teſtament is to be produced, that ſerves either to deny or maintain the poynt in controverſie.</p>
+            <p n="2">2 From which Scripture is to ariſe Dialexis, reaſoning by Argument, to aſſert or gainſay the thing it is brought to main<g ref="char:EOLhyphen"/>tain, either Negatively or Affirmatively.</p>
+            <p n="3">3 Whence men are confined to what the Scriptures ſay of
+<pb n="5" facs="tcp:166730:4"/>the Argument, and are not left ſo to invention, to object what he pleaſe; nor ſhall the mind herein want matter to exerciſe his invention withal, but abundantly aſſiſteth it againſt the deluſi<g ref="char:EOLhyphen"/>ons of men.</p>
+            <p n="4">4 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Act. 17.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That is, in diſpute if there ariſe any difference about the letter or ſenſe of the Scripture propoun<g ref="char:EOLhyphen"/>ded, that is firſt to be cleered in its ſenſe, and opened.</p>
+            <p>Under this word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is comprehended,</p>
+            <p n="1">1 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, An interpretation or ope<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of the true ſenſe of the letter, if difference ariſe therefrom, 1 Cor. 12.10.</p>
+            <p n="2">2 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which relates to an opening of the ſenſe of the Text and context that are before and after; which is more ſig<g ref="char:EOLhyphen"/>nified in the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in which is intended a through o<g ref="char:EOLhyphen"/>pening of the Scriptures.</p>
+            <p n="3">3 That theſe are both herein intended, appears,</p>
+            <p>In that that which Chriſt calls, Luke 24.32. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that in verſe 27. he is ſaid <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to interpret the Scri<g ref="char:EOLhyphen"/>ptures.</p>
+            <p>By theſe means the deceitful handling of the truth by men of corrupt mindes, are eaſily to be enquired into, as Satans corrupt handling, Pſal. 91.11. in Matt 4.6. leaving out part of the truth; and Evahs adding to, and her taking from the truth, Gen. 3.3. compared with cap. 2.17.</p>
+            <p n="5">5 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an appoſing or adding of other Scriptures to the former, for proof of what is affirmed or de<g ref="char:EOLhyphen"/>nyed concerning the poſition, Act. 17 3. that ſo under two or three witneſſes every thing may be confirmed, 1 Cor. 2.13.</p>
+            <p n="1">1 The Scriptures rightly applyed and compared, like faith<g ref="char:EOLhyphen"/>ful witneſſes, agree in the ſame thing, or they are miſapplyed.</p>
+            <p n="2">2 As many Scriptures as relate thereunto, they all have di<g ref="char:EOLhyphen"/>verſly matter in them to demonſtrate the truth by; ſo that what is not found in one, is to the full to be ſeen in the other.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:166730:5"/>3 This work is not to be judged grievous: for though of all truths, none is ſo much ſpoke of, as that that deſcribes the Meſſiah, in the book of God; yet Chriſt, Luke 24.27. began at Moſe, and all the Prophets, and expounded to them in all the Scriptures, the things concerning himſelf.</p>
+            <p n="4">4 Until the Script<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res are faithfully and throughly ſearched men can never be ſatisfied nor reconciled in their differing judgements, nor can the mouths of unruly deceivers be ſtop<g ref="char:EOLhyphen"/>ped, Tit. 1.10, 11.</p>
+            <p n="5">5. If men impertinently alledge Scriptures, and pervert their ſence, they are the men (1 Pet. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6.) that wreſt and rack the Scripture, as Chriſt was on the Croſs: in which they manifeſt,</p>
+            <p n="1">1 either their ignorance and inability to manage the ſpiri<g ref="char:EOLhyphen"/>tual war of Chriſt.</p>
+            <p n="2">2 Or their fallaciouſneſs and diſhoneſty, who as Jannes and Jambres reſiſted Moſes, ſo theſe the truth; who are men of corrupt mindes, 2 Tim. 3.8.</p>
+            <p n="3">3 There ſenſibly appears in him alſo a weakneſs of his cauſe.</p>
+            <p n="4">4 The letter and ſenſe of the Scripture being cleered, the Arguments ſtrongly prove themſelves to every cap<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ity: by which Amphibol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gies, with all the intricateneſs, and knotty tearms and rules of vain Philoſophy and wiſdom of men, prove their declared <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nmity againſt God, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am. 3.15.</p>
+            <p>The Concluſion deduced from the premiſes is, That Truth in it ſelf is ſufficient to cleer it ſelf, and con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ince the enmity and error of its enemies, without the device of <hi>Ariſtotle.</hi>
+            </p>
+            <p>The ſecond general, that appertains to the diſpute, con<g ref="char:EOLhyphen"/>cerns the hearers;</p>
+            <p n="1">1 Who having heard the Scriptures ſearched according to its true method, who having their underſtanding rightly fitted, thereby they come to be enabled to judge the truth of the queſtion by the help of the Word, Joh. 7.24. and is called, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Act, 17.11. a ſearching, or rather a recon<g ref="char:EOLhyphen"/>ſidering of the Scriptures; that is, examining the Scriptures, and the Arguments, whether naturally deduced thence or not,
+<pb n="7" facs="tcp:166730:5"/>by which they may come to know who was for truth, and who againſt it in the diſpute. So that it is the Scriptures are the main things concern the diſputants to prove by, and the people in their Conſciences to be ſatisfied by, as being the foundation of Faith, and the rule and meaſure of things, Iſa. 8.20. <hi>To the Law and to the Teſtimony; if they ſpeak not according to this word it is becauſe there is no light in them,</hi> Rom. 10.17. <hi>Faith cometh by hearing, and hearing by the word of God.</hi>
+            </p>
+            <p n="2">2 To further this, the Apoſtle uſually at the end of diſputes converted his ſpeech to the hearers; and ſo Chriſt, in that di<g ref="char:EOLhyphen"/>ſpute he had with the Phariſees about the Tradition of the El<g ref="char:EOLhyphen"/>ders, <hi>Matt.</hi> 7.5, 14 15.</p>
+            <p n="3">3 Academicks are diſputers of the world, not the Church, <hi>Peripateticks,</hi> and their wiſdom is of the world, who in the days of <hi>Paul</hi> flouriſhed; who were in that time corruptors, enemies, and the alone contemners of the grace and glory of the Goſpel.</p>
+            <p n="4">4 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Order being obſerved, according to 1 Cor. 14.30, 31.40. truth will have preſerved to it its ſtrength and freedom, which by the ſubtilty and ſophiſtry of mens deceitful ways and wit, is weakned and captivated: and men contending for truth denyed this, are diſarmed; and the people, as <hi>Samoſon,</hi> have their eys put out, and made grinde in the Mills of error and ignorance.</p>
+            <p n="5">5 In diſputes laid down in Scripture, theſe two generals are obſervable.</p>
+            <p n="1">1 That in ſome caſes, when need ſo required, the whole practiſe is made uſe of to ſet forth the truth by, and convince the gainſayers.</p>
+            <p n="2">2 At other times, when truth was plain, and the enemy ſi<g ref="char:EOLhyphen"/>lenced, there was made uſe but of a part of the practice one<g ref="char:EOLhyphen"/>ly. Nature telling us,</p>
+            <p>
+               <hi>Fruſtra fit per plura, quod fiere poteſt per pauciora.</hi>
+            </p>
+            <p n="3">3 In theſe few forecited heads, you have the full ground for diſpute, the Scriptures themſelves furniſhing you with Ar<g ref="char:EOLhyphen"/>guments, God having not left you to Inventions: nay, to In<g ref="char:EOLhyphen"/>vent an Argument that is not in the Text, God nor Saints al<g ref="char:EOLhyphen"/>low
+<pb n="8" facs="tcp:166730:6"/>not of; which in leſs then ſeven yeers ſtudy is eaſily to be attained. If the Spirit teach the Topicks, they need not <hi>A<g ref="char:EOLhyphen"/>riſtotles</hi> inſtructions.</p>
+            <div n="1" type="question">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 1.</head>
+               <p>1 <hi>Cor.</hi> 9.4, 5. Whether <hi>Paul</hi> had not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, authori<g ref="char:EOLhyphen"/>ty to require meat and drink of the Church or people he taught, both for himſelf and wife, a ſiſter (if he had had any) without labouring for it?</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ver. 3. <hi>This is my apology to thoſe that judge o<g ref="char:EOLhyphen"/>therwiſe.</hi> In which is the diſpute of the Queſtion: <hi>Paul</hi> he Apologizeth and ſpeaks to maintain it; others judge the con<g ref="char:EOLhyphen"/>trary and are againſt it.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, The Scripture ver. 9. out of Deut. 25.4. <hi>Thou ſhalt not muzzle the mouth of the ox that treadeth out the Corn:</hi> which he layeth as a ground to prove his Aſſertion by. <hi>A Diſparatis.</hi>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ver. 9. <hi>Doth God take care for Oxen?</hi> ver. 10. <hi>or ſaith he it al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ogether for our ſakes?</hi> The Scripture was obſcure: for God ſpeaks of Oxen, and yet intends altogether the Miniſtry, and therefore needs opening.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ver. 10. it was written for us: <hi>Erge,</hi> You are not to muzzle our mouths, and deny us meat for our labour.</p>
+               <p n="2">2 That he that ploweth ſhould plow in hope; which is the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſignifying, that if the Ox was to eat of his labour, the plow-man much more of his.</p>
+               <p n="3">3 Ver. 11. <hi>If we</hi> (the Church-Miniſtry) <hi>have ſown to you ſpiritual things, is it a great matter if we reap your carnal things?</hi> in which he ſhews, there was nothing but reaſon, that he that ſoweth ſhould reap the ſame, when they reaped but inferior things, the people reaping better from what they ſowed by far. <hi>A Minore ad Majus.</hi>
+               </p>
+               <p n="4">4 Ver. 12. <hi>If others are partakers of this authority over you are not we rather?</hi> As in ver. 5, 6. <hi>(a Comparatis)</hi> in the Ore treading out of the Corn, was comprehended the Prea<g ref="char:EOLhyphen"/>chers
+<pb n="9" facs="tcp:166730:6"/>Miniſtry in plowing; the Evangeliſt, Paſtor, and Tea<g ref="char:EOLhyphen"/>chers Miniſtry, in ſowing; and in the not muzling of his mouth, their reaping or maintenance.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ver. 13. from Deut. 13.1, 2, 3, 4. <hi>Do ye not know that they which miniſter about holy things, are fed from the Temple, and they that wait at the Altar, are partakers with the Altar?</hi> that is, as part of the ſacrifice was by fire to be devou<g ref="char:EOLhyphen"/>red on the Altar, ſo God appointed other part thereof to the Prieſts.</p>
+               <p>Converſion of ſpeech to the Corinthians, in the word [ye]: <hi>Do ye not know?</hi> ver. 13.</p>
+               <p>Concluſion, ver. 14. <hi>Even ſo the Lord appointed, that thoſe which preach the Goſpel ſhould live of the Goſpel.</hi>
+               </p>
+               <p>Ver. 4. the Apoſtle from Deut. 20.6. and other Scriptures proves the point from mens not planting a Vineyard, but they eat the fruit of it, nor goe to war on their own charge, <hi>&amp;c.</hi> and then confirms his Arguments, and reproves the humane argu<g ref="char:EOLhyphen"/>ings of men.</p>
+               <p>He proves his Arguments thus;</p>
+               <p>Ver. 8. <hi>Say I this as a man?</hi> Signifying, that in the judge<g ref="char:EOLhyphen"/>ment or tryal of divine truth, we are not to argue from reaſons of our own. As God, ſo truth is above Reaſon.</p>
+               <p n="1">1 Noting, that there is a great deal of difference between diſputes drawn from Reaſon, after the way of men; and ſuch as are taken from God and his Word.</p>
+               <p n="2">2 That if the word had not ſaid the ſame, his ſaying had been neglected.</p>
+            </div>
+            <div n="2" type="question">
+               <head>
+                  <hi>Queſt.</hi> 2.</head>
+               <p>Whether there be any Reſurrection of the dead or not? <hi>Matt.</hi> 22.23.</p>
+               <p>The Queſtion is diſputed, the Sadduces deny it, ver. 23. Chriſt affirms it, ver. 29, 30.</p>
+               <p n="1">
+                  <pb n="10" facs="tcp:166730:7"/>1 In his affirmation of the point, he ſhews the nature of it, <hi>a Refutatione res,</hi> ver. 30.</p>
+               <p n="2">2 He ſhews the ground of their error, ver. 29. <hi>a Refutatione doctrinae.</hi>
+               </p>
+               <p>Scripture, ver. 32. from Exod. 3.6. <hi>I am the God of Abra<g ref="char:EOLhyphen"/>ham. and of Iſaac,</hi> &amp;c.</p>
+               <p>Argument, ver. 32. <hi>God is not the God of the dead, but of the living:</hi> which is excellently cleered, Luke 20.58. for all live unto him.</p>
+               <p>Effect. 1 On the gainſayers, the Scripture and Argument ſtopt their mouths, as in ver. 34.</p>
+               <p n="2">2 On the hearers; the multitude are <hi>aſtoniſhed at his do<g ref="char:EOLhyphen"/>ctrine,</hi> ver. 33.</p>
+               <p>Now how that Jacob dyed, and yet lives to God, is above the predicaments.</p>
+            </div>
+            <div n="3" type="question">
+               <head>
+                  <hi>Queſtion</hi> 3.</head>
+               <p>
+                  <hi>Matt.</hi> 22.42. Whoſe ſon is Chriſt?</p>
+               <p>The queſtion diſputed, ver. 42. the Phariſees ſay, He is <hi>Da<g ref="char:EOLhyphen"/>vids,</hi> ver. 43. Chriſt queſtions it, ſaying, <hi>How then doth David in ſpirit call him Lord?</hi>
+               </p>
+               <p>Scripture, Pſal. 110.1. <hi>The Lord ſaid to my Lord,</hi> ver. 44.</p>
+               <p>The Argument is deduced from the Scripture, ver. 45. <hi>If David call him Lord how is he then his ſon? Ab abſurde;</hi> the ſon uſually calls his father Lord, not the Father the ſon.</p>
+               <p>Effect: <hi>No man was able to anſwer him a word,</hi> ver. 46.</p>
+               <p>
+                  <hi>Note.</hi> The Lord raiſeth the Argument from Scripture, moves the queſtion, and ſilenceth the adverſary from it; and ſignifies to us, that queſtions or ſcruples of Conſcience that ariſe not from Scripture, or oppoſe it, they are needleſs queſtions: and Ar<g ref="char:EOLhyphen"/>guments not deduced thence, are ineffectual, and unwarranta<g ref="char:EOLhyphen"/>ble in Chriſtian diſpute.</p>
+               <p n="2">2 In this, Chriſt trying their Faith, proved their ignorance of Chriſt.</p>
+               <p n="3">
+                  <pb n="11" facs="tcp:166730:7"/>3 1 Cor. 11.2. as <hi>Paul; Be ye followers of me, as I am of Chriſt;</hi> ſo we in diſpute muſt follow Chriſt and the Word, not <hi>Ariſtotle</hi> and the Heathens. We are bound to this rule, as to the obedience of any other in the Goſpel.</p>
+               <p n="4">4 If the queſtion of the diſpute be not grounded on ex<g ref="char:EOLhyphen"/>preſs Scripture, it is uſually about Cuſtoms or humane conſtitu<g ref="char:EOLhyphen"/>tions, and, like needleſs queſtions to be avoided, as genderers of ſtrife and contention.</p>
+               <p n="5">5. Matt. 3.12. <hi>His fan is in his hand, he will throughly purge his floor.</hi>
+               </p>
+               <p n="1">1 The floor is Jeſus Chriſt's, which muſt be purged.</p>
+               <p n="2">2 The Fa<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> (the Word) is that by which it muſt be pur<g ref="char:EOLhyphen"/>ged.</p>
+               <p n="3">3 It purgeth not but as in the hand, that is, (in the way and means that Chriſt inſtituted,) to ſeparate error from truth, as droſs from gold, and unbelievers and deceivers from true pro<g ref="char:EOLhyphen"/>feſſors, men that are approved of the truth it ſelf, 1 Cor. 11.19. 3 Joh. 12.</p>
+               <p n="6">6 Carnal reaſon, worldly wiſdom and learning, they are the weapons of ſpiritual wickedneſs; that is, of error, hereſie, and ſpiritual deluſions, to deceive by.</p>
+            </div>
+            <div n="4" type="question">
+               <head>
+                  <hi>Queſtion</hi> 4.</head>
+               <p>From <hi>Rom.</hi> 9.6. If God in rejecting the unbelie<g ref="char:EOLhyphen"/>ving Jews, did not faile of his promiſe to Abra<g ref="char:EOLhyphen"/>ham.</p>
+               <p>Queſtion diſputed by ſome Affirming it, ver. 19, 20. <hi>Paul</hi> ver. 6. denies it.</p>
+               <p>Scripture, Ver. 7. taken from Gen. 21.12. <hi>Neither becauſe they are the ſeed of Abraham are they all children, but in I<g ref="char:EOLhyphen"/>ſaac ſhall thy ſeed be called.</hi> In which, as the ſchools ſay, <hi>Qui bene diſtinguit bene docet.</hi>
+               </p>
+               <p>Opening of the Scripture, Ver. 8. as in the words, <hi>that is:
+<pb n="12" facs="tcp:166730:8"/>that is, they which are the children of the fleſh, theſe are not the children of God: but the children of the Promiſe are ac<g ref="char:EOLhyphen"/>counted for the ſeed,</hi> ver. 9. <hi>A diſtributione.</hi>
+               </p>
+               <p>Scriptures added to prove the point, as is ſignifyed in the words, <hi>Not onely this</hi> &amp;c. ver. 10.</p>
+               <p>Ver. 12. Taken from Gen. 25.23. <hi>The elder ſhall ſerve the younger.</hi>
+               </p>
+               <p>Ver. 13. From Mal. 1.2. <hi>Jacob have I loved, Eſau have I hated: having not done good nor evil:</hi> both which, according to the fleſh, were of <hi>Abrams</hi> ſeed. <hi>Ab exemplo;</hi> not dedu<g ref="char:EOLhyphen"/>ced after the manner of men.</p>
+               <p>Arg. 1. Ver. 15. <hi>I will have mercy on whom I will have mer<g ref="char:EOLhyphen"/>cy.</hi> Supra cauſas.</p>
+               <p>Arg. 2. Ver. 20. <hi>Shall the thing formed, ſay to him that for<g ref="char:EOLhyphen"/>med it? Ab abſurde.</hi>
+               </p>
+               <p>Arg. 3. Ver. 21. Hath not the Potter power over the clay? <hi>&amp;c. A comparatis.</hi>
+               </p>
+               <p>The end of God herein, ver. 11. <hi>that the Election of God might ſtand, not of works but of him that calleth.</hi>
+               </p>
+               <p>Concluſion, ver. 8. <hi>Therefore hath he mercy on whom he will have mercy: and whom he will, he hardeneth. Ergo</hi> ſig<g ref="char:EOLhyphen"/>nifies the note of his concluſion on the premiſes.</p>
+               <p>Note, that of <hi>Pharoah,</hi> ver. 17. is brought onely to cleer the caſe, as the Apoſtles converſion of ſpeech proves it, ver. 17. the Queſtion being onely made concerning Gods proceeds with <hi>Abrahams</hi> ſeed.</p>
+               <p>Ver. 14, 19, 20. the Apoſtle by Preoccupation refutes ſuch Objections as may be made.</p>
+            </div>
+            <div n="5" type="question">
+               <head>
+                  <hi>Queſt.</hi> 4.</head>
+               <p>From 1 <hi>Cor.</hi> 1.17. Whether the Goſpel be to be preached <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in the wiſdom of Reaſon or ſpeech, or not?</p>
+               <pb n="13" facs="tcp:166730:8"/>
+               <p>Queſtion diſputed, ver. 22. the Greeks ſeek for wiſdom, <hi>Paul</hi> denies it, ver. 17. <hi>not in the wiſdom of Reaſon, or of the Word, leſt the Croſs of Chriſt ſhould be made of none effect.</hi>
+               </p>
+               <p>Scripture, ver. 19. from Iſa. 33.18. <hi>It is written, I will de<g ref="char:EOLhyphen"/>ſtroy the wiſdom of the wiſe.</hi> &amp;c.</p>
+               <p>Scripture added, ver. 20. from Iſa. 33.18. <hi>Where is the Scribe? Where is the wiſe? Where is the diſputer of this world?</hi> Shew<g ref="char:EOLhyphen"/>ing God needed them not, and would confound them by his truth and its ſimplicity.</p>
+               <p>Arg. 1. ver. 21. <hi>In the wiſdom of God, the world by wiſdom knew not God:</hi> that is, men by wiſdom of the world could ne<g ref="char:EOLhyphen"/>ver attain the knowledge of God in the word, or wiſdom of God.</p>
+               <p>Arg. 2. ver 25. <hi>The fooliſhneſs of God is wiſer then men, and weakneſs of God is ſtronger then men.</hi> Comparata ſunt po<g ref="char:EOLhyphen"/>tentia &amp; impotentia, &amp; argumentum eſt a fortiori.</p>
+               <p>Arg. 3. ver. 26, 27. From the ſufficiency of the word ſo preacht on the fooliſh, they themſelves having been ſuch, and made wiſe, <hi>Ab exemplo.</hi>
+               </p>
+               <p>Arg. 4. From the work of God on the wiſe, confounding them, with the mighty alſo, by fooliſh and baſe things, ver. 27, 28. <hi>A debilitate inſtrumenti.</hi>
+               </p>
+               <p>Arg. 5. ver. 29. From the end of God herein, <hi>that no fleſh ſhould glory in his ſight.</hi> It is a ſhame for the learned and wiſe to be ſilenced in things they profeſs to know, by fooliſh and un<g ref="char:EOLhyphen"/>learned men: in which work the fooliſh have nothing to glory of; for they are but fools; that in Gods ſervice the un<g ref="char:EOLhyphen"/>learned and unwiſe in the way of the world, may be no leſs ac<g ref="char:EOLhyphen"/>cepted then the worldly learned.</p>
+               <p>Note, God will ſilence the diſputers of this world, and con<g ref="char:EOLhyphen"/>found the learned in this age, by unconſiderable men and means; that, as a candle, they will be eclipſed when it ſtands in the Sun, Rev. 3.8. one by a little ſtrength, wiſdom, or knowledge, will op<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſuch a door of truth, that the wiſe of the world ſhall not ſhut, but at laſt fall at his feet, and worſhip him; and know God hath loved him.</p>
+               <p n="2">
+                  <pb n="14" facs="tcp:166730:9"/>2 This muſt come to paſs before the reſtoration of the Churh to him, called the ſixth Angel, Rev. 3.12.</p>
+               <p n="3">3 As in the time of Chriſt, the then controverſies were a<g ref="char:EOLhyphen"/>about Chriſt and the Law, ſo now our controverſies are about grace and the Goſpel. They then went to the Law and to the Prophets; we to them and the Goſpel: which are the new things, and the old, the wiſe ſcribe brings out of his treaſury.</p>
+            </div>
+            <div n="6" type="question">
+               <head>
+                  <hi>Queſtion</hi> 6.</head>
+               <p>If the inſtitution of the Lords d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y be diſtinct from that of the ſeventh day Sabbath, and whether the Jews have not the ſame teſtified in the Prophets to them, is the caſe <hi>Paul</hi> handles, <hi>Heb.</hi> 4.</p>
+               <p n="1">1 Ver. 4. mentions the ſeventh day Sabbath, inſtituted for a Reſt on the work of Creation, from Gen. 2.2, 3. Exod. 20.10.</p>
+               <p n="2">2 Ver. 5. Is another Reſt: <hi>In this place again, If they ſhall enter into my Rest:</hi> in which Chri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſpeaks of the Reſt under the Goſpel-eſtate on the Redemption, into which Reſt the belie<g ref="char:EOLhyphen"/>ving Jew entred then, as we do now; though the day of its celebration was not inſtituted as yet.</p>
+               <p n="3">3 As God upon the Creation inſtituted a day for the crea<g ref="char:EOLhyphen"/>tures to celebrate the Reſt, they reſted with him: ſo Chriſt on the accompliſhing the work of the Redemption, inſtituted a day, called <hi>the Lords day,</hi> in which his redeemed ones ſhould reſt with him therein.</p>
+               <p>Scripture, Ver. 7. from Pſa. 95.7. <hi>To day if ye will hear his voice</hi> &amp;c.</p>
+               <p>Arg. 1. <hi>He limiteth a certain day:</hi> that is, to believers un<g ref="char:EOLhyphen"/>der the Goſpel, the Lord puts an end to the obſervation of the ſeventh-day Sabbath.</p>
+               <p n="2">2 This putting an end to the ſeventh day, was to be after the firſt inſtitution and obſervation of the ſeventh day Sabbath a long time; that is, after Chriſts Reſurrection. To which
+<pb n="15" facs="tcp:166730:9"/>the Prophet alludes, ſaying, <hi>To day if ye will hear his voice:</hi> the voice of Chriſt being heard in the doctrine of the Apoſtles.</p>
+               <p n="3">3 In that Jews enjoyed not this Sabbath, nor under <hi>Moſes</hi> or <hi>Joſhua,</hi> then <hi>David</hi> ſo long time after them would not have ſpoken of <hi>another day,</hi> ver. 8.</p>
+               <p n="4">4 It is <hi>another day;</hi> in which he ſpeaks of a day, not eterni<g ref="char:EOLhyphen"/>ty; and another day, as oppoſing it to the ſeventh day inſti<g ref="char:EOLhyphen"/>tuted to a Reſt, as the ſeventh day, though different in its in<g ref="char:EOLhyphen"/>ſtitutors, grounds, time, inſtitution, and ſanctification: the one ſanctified to believers onely, the other to all creatures.</p>
+               <p>Concluſion, Ver. 9. <hi>Therefore, there remains a Sabbatiſm to the people of God.</hi> It is the people of God, not unbelievers, they ars under the Law: nor Oxe, nor Aſs, nor earth, <hi>&amp;c.</hi> have no right to it, becauſe not redeemed.</p>
+               <p n="2">2 God diſtinguiſheth the ſeventh day from the firſt, calling it <hi>a Sabbatiſm;</hi> in which is a reſt to the Saints: they Sabbatize, though not as the world keep the Law-day-Sabbath.</p>
+               <p>Opening of the Reſt, ver. 10.</p>
+               <p n="1">1 He calls it <hi>his Reſt,</hi> viz. Chriſts, diſtinguiſhing it from the ſeventh-day-Reſt, by ſaying, <hi>As God did from his.</hi>
+               </p>
+               <p n="2">2 He that enters into <hi>his,</hi> that is, Chriſts <hi>Reſt, ceaſeth from his own works,</hi> of legal actings and righteouſneſs, and reſteth in Chriſts work for him and his, being to him by grace for ſalva<g ref="char:EOLhyphen"/>tion; which according to the Law men are not to do.</p>
+               <p n="3">3 <hi>As God did from his:</hi> God reſted from the creature in Chriſt, ſo man reſts with God in Chriſt, leaving all for him.</p>
+               <p>Converſion of ſpeech to the believing Jews, <hi>ver.</hi> 11.</p>
+               <p n="1">1 <hi>Let us therefore be diligent to enter into this reſt:</hi> ſignifying, that men by believing in Chriſt, and thereby came to be parta<g ref="char:EOLhyphen"/>kers of him, they entered into this Reſt.</p>
+               <p n="2">2 Not to believe in Chriſt for Juſtification, without works of the Law; and not to celebrate this Reſt in the day thereof, is to fall after the ſame example of unbelief.</p>
+               <p>That which obſcures the minde of God herein, is from</p>
+               <p>Ver. 6. <hi>They to whom it was firſt preached, entered not in, becauſe of unbelief.</hi> Therefore, this reſt was long before the birth of Chriſt in being among the Jews.</p>
+               <p>
+                  <hi>Reſp.</hi> The Reſt was to them then, as well as to us now; ſo
+<pb n="16" facs="tcp:166730:10"/>that they that believed then, entred into the Reſt.</p>
+               <p n="2">2 But the day of the Reſt was inſtituted upon the reſurre<g ref="char:EOLhyphen"/>ction of Chriſt, and celebrated by Believers under the Goſpel<g ref="char:EOLhyphen"/>eſtate onely, and not before.</p>
+               <p n="3">3 <hi>They entered not in becauſe of unbelief<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> which ſhews, that the Reſt was Chriſts: Faith being towards our Lord Jeſus Chriſt, in whom men <hi>reſt</hi> from their own works and Law-righ<g ref="char:EOLhyphen"/>teouſneſs, by Faith.</p>
+            </div>
+            <div n="7" type="question">
+               <head>
+                  <hi>Queſt.</hi> 7.</head>
+               <p>
+                  <hi>Matth.</hi> 12.1. Whether it be lawful on the Sabbath day, when a man is hungry, for him to pluck the ears of Corn, rub them, and eat the Corn.</p>
+               <p>Queſtion diſputed, Ver. 2. The Phariſees ſay it is unlawful, Chriſt defends the lawfulneſs of it, calling them <hi>blameleſs,</hi> ver. 7.</p>
+               <p>Scripture, ver. 3. from 1 <hi>Sam.</hi> 21.4, 5, 6. <hi>have ye not read what David being an hungry, and thoſe with him, how he went into the houſe of God, and cat of the ſhew-bread which it was not lawful for him nor thoſe with him to eat, but the Prieſts onely?</hi>
+               </p>
+               <p>Scripture added, ver. 5. <hi>have ye not read in the Law that the Prieſts in the Temple do prophane the Sabbath, and yet are blame<g ref="char:EOLhyphen"/>leſs?</hi>
+               </p>
+               <p>Arg. 1. Ver. 6. <hi>One greater then the Temple is here;</hi> to whom the Apoſtles now miniſtred, and therefore their profanation of the Sabbath was no ſin to them. <hi>A minore ad majus.</hi>
+               </p>
+               <p>Arg. 2. <hi>Mark</hi> 2.27. <hi>the Sabbath was made for man, not man for the Sabbath;</hi> which Argument was given to the ſame perſons, on the ſame occaſion, though <hi>Matthew</hi> recorded it nor. <hi>A fine inſtitutionis Sabbati.</hi>
+               </p>
+               <p>Arg. 3. ver. 7. <hi>Had ye known what that meant, I will have mercy and not ſacrifice, ye would not have condemned thoſe blameleſs ones.</hi> From Gods diſpenſing with mens obedience to him in their neceſſity.</p>
+               <p>Arg. 4. ver. 8 He is Lord of the Sabbath, who is the Son of man: <hi>Ergo,</hi> The evil committed thereon, was againſt him, not
+<pb n="17" facs="tcp:166730:10"/>them: if he juſtified his diſciples, they had nothing to do to condemn them.</p>
+            </div>
+            <div n="8" type="question">
+               <head>
+                  <hi>Queſt.</hi> 8.</head>
+               <p>
+                  <hi>From</hi> Mark 10.2. <hi>Is it lawful for a man to put away his wife?</hi>
+               </p>
+               <p>Chriſt would not admit the Queſtion to him, but ſends them to the Scripture with <hi>What did Moſes command?</hi> ver. 3.</p>
+               <p>Scripture, ver. 4. From Deut 24.1, 2. <hi>Moſes ordained a Bill of divorce to be writ, and to ſend her away.</hi>
+               </p>
+               <p>Scripture opened, ver. 5. he wrote you this command, <hi>for the hardneſs of your hearts.</hi> He proves the contrary.</p>
+               <p>Scripture, ver. 6, 7, 8. from <hi>Gen.</hi> 2.24. <hi>God hath ſaid, A man ſhall forſake father and mother, and ſhall be joyned to his wife, and they two ſhall be one fleſh.</hi>
+               </p>
+               <p>Arg 1. ver. 9. <hi>Thoſe whom God hath joyned, let no man put a<g ref="char:EOLhyphen"/>ſunder. Ab imparibus,</hi> the inferiour cannot diſſolve the ſupe<g ref="char:EOLhyphen"/>rior acts of authority.</p>
+               <p>Concluſion, ver. 11, 12. therefore to marry he or ſhe that is divorced, is to commit Adultery; <hi>they acting</hi> by that inferior, and againſt the ſupream will and authority.</p>
+               <p>In this are theſe rules for diſpute to be obſerved:</p>
+               <p n="1">1 That an adverſary moving a controverſie without citing Scripture as the ground of it, he is to be forced thereto.</p>
+               <p n="2">2 The opponent is not to anſwer until that be done.</p>
+               <p n="3">3 All Queſtions, until the Scripture owns them, are but thoſe needleſs diſputes, 1 <hi>Tim.</hi> 6.4.</p>
+               <p n="4">4 The Adverſary is to have liberty to deduce his Argument from the Text, which being well obſerved, is that by which he is to be o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ercome: for <hi>their own tongue ſhall make them fall.</hi>
+               </p>
+               <p n="5">5 In diſpute, if you cannot ſhew how by his Arguments he abuſeth the Scripture made uſe of by him, ye then are dri<g ref="char:EOLhyphen"/>ven to confeſs the adverſaries Arguments, and are ſilenced:
+<pb n="18" facs="tcp:166730:11"/>for it is not you, but the Scripture, that muſt deny them.</p>
+               <p n="6">6. In denying the adverſary liberty to frame his Argument by the Scripture, you ſeem to deny Truth its liberty, and to pre<g ref="char:EOLhyphen"/>judice it, as an enemy thereunto.</p>
+               <p n="7">7. From this of <hi>Mark</hi> 10. and <hi>Matth.</hi> 22.24. theſe general Rules are held out for Diſpute.</p>
+               <p n="1">1. That in judging differences that are about the worſhip and knowledge of God, the written Word is alone to be judge; and that the judgement is to be given in the way there<g ref="char:EOLhyphen"/>of, becauſe that onely agrees with the minde of God.</p>
+               <p n="2">2. That in diſputes, to ſilence the enemy or gainſayer,</p>
+               <p>Note, The corrupt interpretation given of the Scripture by the gainſayer, is to be cleared, that he withſtand it not.</p>
+               <p n="1">1. The Scripture being taken from the Argument, is as the taking away the foundation from the houſe, which makes it fall.</p>
+               <p n="2">2. Which proves you are not (as men now corruptly pra<g ref="char:EOLhyphen"/>ctiſe) to argue againſt the Argument, further then the Argu<g ref="char:EOLhyphen"/>ment relates to the Scripture, in its oppoſing it ſelf againſt the truth and minde of God therein. In which, a ſpeedy end one<g ref="char:EOLhyphen"/>ly is to be put to our otherwiſe-endleſs Diſputes.</p>
+               <p n="3">3. Our material Errours, as that of the Sadduces, ariſing from our not underſtanding the Scriptures, proves that it is onely the opening of the Scriptures that onely can and muſt undeceive the people, and remove our ſpiritual diſtempers and differences; as in Chriſt's opening the nature and ſtate of men partakers of the reſurrection, verſ. 30. moſt excellently evi<g ref="char:EOLhyphen"/>denceth.</p>
+               <p n="4">4. Whereas diſputes of this kinde are a ſpiritual War, it proves that the weapons of this war are the Word and Wiſdom of God, and not carnal, of the way and wiſdom of men, which never can, nor doth it ever intend to ſubject every high thought that exalts it ſelf in men againſt Chriſt and his Soveraignty. Satans ſophiſtry, <hi>Matth.</hi> 4.6. was eaſily made manifeſt from the Scripture he corrupted; he not arguing from the whole there<g ref="char:EOLhyphen"/>of, but part onely, whereby he became a tempter, and proved himſelf a deceiver.</p>
+               <p>The devil, the Sadduces, and deceivers, argued from Scri<g ref="char:EOLhyphen"/>ptures.</p>
+               <p n="1">
+                  <pb n="19" facs="tcp:166730:11"/>1. So men now bring Scripture to uphold deſtructive and deceitful doctrine; whom men are to beware of.</p>
+               <p n="2">2. Thoſe that trouble the conſciences of men with unneceſſa<g ref="char:EOLhyphen"/>ry Queſtions that are not owned by Scripture, are worſe then ſeducers. Satan would not do it. <hi>Their words</hi> (ſaith <hi>Paul</hi>) <hi>eat like a canker.</hi>
+               </p>
+            </div>
+            <div n="9" type="question">
+               <head>
+                  <hi>Queſt.</hi> 9. <hi>From</hi> Joh. 7.21. Whether it be lawful to do a work of charity on the Sabbath day, or not.</head>
+               <p>Scripture, verſ. 22. <hi>Moſes gave to you Circumciſion.</hi>
+               </p>
+               <p>Opening of Scripture: <hi>For this cauſe;</hi> viz. though the inſti<g ref="char:EOLhyphen"/>tution was firſt given <hi>Abraham,</hi> yet <hi>Moſes</hi> enjoyed it not as given to him; but as he gave the Jews the Law of the Sabbath, ſo did he that of Circumciſion, that there ſhould not ariſe any doubt to the Jews about the lawfulneſs of circumciſing a childe on the Sabbath day.</p>
+               <p>Argument, verſ. 23. <hi>If a man receive circumciſion on the Sab<g ref="char:EOLhyphen"/>bath, that the law of Moſes be not broken, are ye angry at me, be<g ref="char:EOLhyphen"/>cauſe I have made a man every whit whole on the Sabbath day?</hi> Signifying, If the law of the Sabbath give way to the law of Circumciſion, a ceremony ſignifies onely the ſpiritual healing, how then ſhall it give way to the healing of a man every whit?</p>
+               <p>Converſion of ſpeech, verſ. 24. <hi>Judge not therefore accor<g ref="char:EOLhyphen"/>ding to outward appearance, but judge righteous judgement.</hi>
+               </p>
+               <p>Rules in Diſpute hence to be obſerved:</p>
+               <p n="1">1 The Scripture produced muſt be opened, and the diffe<g ref="char:EOLhyphen"/>rences be debated, before the Queſtion can be fit for judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="2">2 Until that be done, Errour is ſeeming Truth, and Truth ſeeming Errour; which is unrighteous judgement.</p>
+               <p n="3">3 Men neglecting a diligent ſearch of the minde of God in the Word, they eaſily come by raſh judgement to condemn Chriſt and his Truth, and juſtifie Errour. When men appre<g ref="char:EOLhyphen"/>hend and juſtifie Truth, they are her children, <hi>Matth.</hi> 11.18, 19.</p>
+            </div>
+            <div n="10" type="question">
+               <pb n="20" facs="tcp:166730:12"/>
+               <head>
+                  <hi>Queſt.</hi> 10.</head>
+               <p>From <hi>Rom.</hi> 4.1. Whether ſalvation be obtainable by faith or works.</p>
+               <p>Scripture, verſ. 3. <hi>Abraham believed, and it was accounted to him for righteouſneſs.</hi>
+               </p>
+               <p>Argument, verſ. 4. <hi>Now to him that worketh, the reward is not reckoned of grace, but of debt;</hi> by commutative juſtice.</p>
+               <p>Argument, verſ. 5. <hi>But to him that worketh not, but believeth in him that justifieth the ungodly, his faith is accounted for righte<g ref="char:EOLhyphen"/>ouſneſs:</hi> non jure legali.</p>
+               <p>Scripture added, verſ. 6, 7. from <hi>Pſal.</hi> 32.1, 2. in which he de<g ref="char:EOLhyphen"/>ſcribes the mans bleſſedneſs to whom God imputeth-righteouſ<g ref="char:EOLhyphen"/>neſs without works.</p>
+               <p n="1">1. Rules in Diſpute, That in the natural opening of Scri<g ref="char:EOLhyphen"/>pture, Arguments of themſelves ariſe, to prove the intent of God therein, and prove the ſame, if well obſerved.</p>
+               <p n="2">2. That to ſatisfie Objections, many Queſtions may ariſe out of one Scripture, and belong to one caſe.</p>
+            </div>
+            <div n="11" type="question">
+               <head>
+                  <hi>Queſt.</hi> 11. Whether Juſtification be on the Circumciſion onely, or the Circumciſion alſo.</head>
+               <p>
+                  <hi>Rom.</hi> 4. verſ. 9. is the ground of the diſpute: <hi>We ſay, Abra<g ref="char:EOLhyphen"/>hams faith was reckoned for Juſtification to him who was a Jew.</hi>
+               </p>
+               <p>Scripture, <hi>Gen.</hi> 15.5, 6.</p>
+               <p>
+                  <hi>Paul</hi> proves it to pertain to the Uncircumciſion.</p>
+               <p>Argument, verſ. 10. <hi>Abraham</hi> received the promiſe in uncir<g ref="char:EOLhyphen"/>cumciſion, and not in circumciſion. <hi>Quando?</hi>
+               </p>
+               <p>Argument, verſ. 11. <hi>He received it in uncircumciſion, that he might be the father of them that believe, though uncircumciſed.</hi> A fine.</p>
+               <p>In which is the end of his ſo receiving it, in the ſtate or time of uncircumciſion, held out.</p>
+               <pb n="21" facs="tcp:166730:12"/>
+               <p>Argument, verſ. 12. <hi>That he might be the father of circumciſion to them who are not of the circumciſion onely, but alſo walk in the ſteps of that faith of our father Abraham, which he had being yet un<g ref="char:EOLhyphen"/>circumciſed:</hi> and ſo believing Gentiles had <hi>Abrahams</hi> firſt and beſt circumciſion of the heart, though not that of the fleſh.</p>
+               <p>Argument, verſ. 13. <hi>For the promiſe that he ſhould be the heir of the world, was not to Abraham or to his ſeed by the law, but through the righteouſneſs of faith.</hi> Signifying, that the promiſe was not ty<g ref="char:EOLhyphen"/>ed to the Law and Circumciſion, but faith in Chriſt.</p>
+               <p>Argument, verſ. 14. <hi>If they of the Law are heirs, faith is made void,</hi> &amp;c. That is, the Goſpel is no way neceſſary: <hi>ex appoſitis.</hi>
+               </p>
+               <p>Concluſion, verſ. 16. <hi>Therefore it is by faith, that it may be by grace, that the promiſe may be ſure to all the ſeed, not to that onely which is of the Law, but to that alſo which is of the faith of Abra<g ref="char:EOLhyphen"/>ham, who is the father of us all.</hi>
+               </p>
+               <p n="1">1. The wiſdom of the Apoſtles was admirable, in that they anſwered all objections from the Law and Prophets: we ha<g ref="char:EOLhyphen"/>ving their writings alſo to reſolve our doubts, have greater help and freedom.</p>
+               <p n="2">2. Moſt of our Differences now ariſe from the New, as their; from the Old Teſtament.</p>
+               <p n="3">3. The form of Goſpel-diſpute at large is drawn out by the Apoſtle, in his proving the reſurrection of the dead, 1 <hi>Cor.</hi> 15. which I have omitted, to ſpare coſt, and to put you on practice.</p>
+               <p n="4">4. With theſe Diſputes, the Goſpel abounds with Caſes of Conſcience; which are of leſs concernment, and are hand<g ref="char:EOLhyphen"/>led after another way.</p>
+               <p n="5">5. Or, in the Goſpel are contained ſeveral rules how men in their ſeveral relations may keep a good Conſcience, void of of<g ref="char:EOLhyphen"/>fence to God and men; whether parents and children, maſter and ſervant, husband and wife, <hi>&amp;c.</hi>
+               </p>
+               <p n="1">1. The natural mans light is darkneſs in him, <hi>Matth.</hi> 6.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. and his acquired habits are but falſly called knowledge, 1 <hi>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m.</hi> 6.20. and is that falſe balance God abhors, <hi>Prov.</hi> 11.1. <hi>Hoſ.</hi> 12.7. <hi>Mic.</hi> 6.11. God ſpake this, not for weights and balances onely, or for money, but the word and conſciences of men. <hi>Dan.</hi> 5.27. Thou, thy works, thy judgement in doctrine or
+<pb n="22" facs="tcp:166730:13"/>practice, is to be weighed in the balance of the Sanctuary.</p>
+               <p n="2">2. Chriſt prayed for the Word, that it might ſatisfie and ſan<g ref="char:EOLhyphen"/>ctifie men, and overcome the world; and in that, prayed a<g ref="char:EOLhyphen"/>gainſt the wiſdom of the world, that it hath no vertue to ſatisfie men: nor will God ſuffer the world long to be ſeduced by it. 1 <hi>Cor.</hi> 1.20. In time, it will be ſaid, on the overthrow and re<g ref="char:EOLhyphen"/>moval thereof, <hi>Where is the diſputer of this world?</hi>
+               </p>
+               <p n="3">3. The end of Diſputes being, to ſtop the mouths of gain<g ref="char:EOLhyphen"/>ſayers, to undeceive the ſeduced and unbelieving, and to ſtabliſh the weak, proves that it is to be done by the Word; faith com<g ref="char:EOLhyphen"/>ing by hearing, and hearing by the Word of God: which is a work never to be done by the wit and principles of rotten and corrupted Nature.</p>
+               <p n="4">4. The plea made for Arts and Sciences, is, that they are handmaids to Divinity; which are no leſs to be caſt out of the houſe of the faithful, then <hi>Hagar</hi> out of <hi>Abraham</hi>'s. Nature and her wit is in bondage to ſin and Satan, and ſo is not fit to ſit and judge the priviledges of Saints.</p>
+               <p>Truth in the hand of Humane knowledge and learning, is as the Lord Jeſus in the hands of the Jews when the crucified him.</p>
+               <p n="1">1. The one is no leſs envied by the one, then the other by the other. <hi>The wiſdom of the world is enmity with God.</hi>
+               </p>
+               <p n="2">2. Humane learning ſeduces the people, as the Prieſts did, when they made the Jews cry <hi>Crucifie him:</hi> ſo men now deſtroy Truth, and are brought to chuſe Errour, as the Jews <hi>Barablas</hi> before Chriſt.</p>
+               <p n="3">3. The men that advance natural learning, cry down the Truth, and ſay, That ſuch as own it, are no friends to <hi>Ceſar,</hi> States, their rule and government.</p>
+               <p n="4">4. They wreſt the Truth, and rack it, as Chriſt was rackt on the Croſs, 2 <hi>Pet.</hi> 3.16. making it ſpeak to their own ſenſe, far from the minde of God.</p>
+               <p n="5">5. As they buffeted Chriſt, ſo theſe perſecute Truth.</p>
+               <p n="6">6. As they mocked Chriſt, ſo theſe call Truth Hereſie, Schiſm, deceit.</p>
+               <p n="7">7. As the Prieſts cryed <hi>Crucifie</hi> Chriſt, ſo theſe cry, Suppreſs the Truth, make Laws againſt it, binde up Truth as Chriſt was
+<pb n="23" facs="tcp:166730:13"/>bound, not ſuffering it to be preached.</p>
+               <p n="8">8. As Chriſt had a reed put in his hand, and was called King; ſo Truth is mockt and derided by men that ſeemingly profeſs it.</p>
+               <p n="9">9. As Chriſt hath been buryed, ſo the Truth: at the time of whoſe riſe, God ſhall ſend an Angel or Meſſenger to roll away the ſtone thereon; whoſe wiſdom ſhall make the keepers to tremble, and become as dead men. A work ſhortly to be done.</p>
+               <p>Theſe keepers will tell the people lyes, and ſay Truth was ſtollen out of the grave, and not raiſed by the power of God. You that are learned, take heed hereto, and conſider what I ſay.</p>
+               <p>
+                  <hi>Illustr.</hi> As <hi>Aarons</hi> Prieſthood died with Chriſts aſcenſion, ſo Truth riſing, puts an end to Romes Prieſthood; who, as <hi>Mat.</hi> 3.10. will prove that ax that roots up the corrupt trees of Er<g ref="char:EOLhyphen"/>rour among men.</p>
+               <p>Reaſons why I compare Chriſt's handling to Truth's by us, are,</p>
+               <p n="1">1 Chriſt faith he is <hi>the Truth:</hi> what is done in one, is done in the other.</p>
+               <p n="2">2. As Chriſt ſuffered for witneſſing to Truth, ſo now Truth ſuffers for witneſſing to Chriſt.</p>
+               <p>In a word, look what Chriſt was to the diſciples or Church, that <hi>Ariſtotle</hi> is to the Scholars in the Academies: whoſe op<g ref="char:EOLhyphen"/>poſition one to the other, appears from theſe principles:</p>
+               <p n="1">1. <hi>Ariſtotle</hi> teacheth, and by diſpute maintains, that Man conſiſts onely of a ſoul and body; whom all the now Acade<g ref="char:EOLhyphen"/>micks follow, againſt the doctrine of the Goſpel, 1 <hi>Theſ.</hi> 5.23.</p>
+               <p n="2">2. Say <hi>Ariſtotle</hi>'s now-diſciples, The ſouls go to heaven or hell immediately after death. Says Chriſt and the Word, It is the ſpirit that returns to God, and the ſoul goeth to the grave, <hi>Acts</hi> 2.</p>
+               <p n="3">3. <hi>Aristotle</hi> ſays, <hi>A privatione ad habitum, non datur regreſ<g ref="char:EOLhyphen"/>ſus;</hi> againſt the doctrine of the reſurrection held out in the Goſpel.</p>
+               <p n="4">4. Says <hi>Ariſtotle, Ex nihilo nihil fit;</hi> which denies the do<g ref="char:EOLhyphen"/>ctrine of the Creation. <hi>Et quod honeſtate &amp; virtute eſt ſummum
+<pb n="24" facs="tcp:166730:14"/>bonum. Vide Lactant. de falſa ſapientia, cap.</hi> 6.</p>
+               <p n="5">5. Says he, The World is eternal, and Nature the God of it.</p>
+               <p>
+                  <hi>Ariſtotle,</hi> out of his Learning and Wit, brought forth this deadly fruit, with much more like this, which tends onely to Atheize men, whoſe writings like a filthy dunghi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſending forth rotten ſavours is to be abominated, and his practice and rules of diſpute, as the weapons of the darkneſs of this world, to be laid aſide by all that love God, and profeſs ſubjection to Jeſus Chriſt and the Goſpel, and deſire to be made wiſe thereby to ſalvation; or otherwiſe they do by Truth, as the Philiſtine Harlot by <hi>Sampſon,</hi> cut off his hair, rob him of his ſtrength, at laſt put out its fight, and make way to make it grind in the mill of error: the beſt of them not making their Arguments ſpeak from the Scripture, but endeavour to make the Scripture ſpeak from their Arguments, which is no leſs then abomination be<g ref="char:EOLhyphen"/>fore God, and is uſually done without ſhew of reaſon or ſha<g ref="char:EOLhyphen"/>dow of truth.</p>
+               <p>My neceſſity diſables me, or I could clear how the very places from whence God takes the Scripture-Arguments in the proof of truth, and ſeem to agree with <hi>Ariſtotles</hi> Philoſophy, do yet in the nature and uſe of them ſo differ, that the one is never to be underſtood in the other. O therefore that men would ſearch the Scriptures, and learn learning and wiſdom thence, by which onely men may be made wiſe to God, and be ſaved.</p>
+            </div>
+            <div type="part">
+               <pb n="25" facs="tcp:166730:14"/>
+               <head>In Anſwer to ſome, who (in oppoſition to a late Trea<g ref="char:EOLhyphen"/>tiſe written by me) queſtion whether the Judicial Law of God be binding to Gentiles, as well as Jews;</head>
+               <p>I Onely propoſe, in ſtead of much elſe that may be ſaid, this one thing, That if the Ten Commands are binding to all, then the Judicials are no leſs binding.</p>
+               <p n="1">1 The Judicials being comprehended in one of the Ten Commands, ſo as that they are in and of the ſame, and not to be by any deſtroyed, but it proves a deſtruction in part to the Decalogue, and are as branches iſſuing from their root.</p>
+               <p n="2">2 The puniſhments are as the life of the Law, the Law be<g ref="char:EOLhyphen"/>ing indeed no Law longer then its Judgements are put in exe<g ref="char:EOLhyphen"/>cution.</p>
+               <p n="3">3 The puniſhments are not (as mens) exceeding the of<g ref="char:EOLhyphen"/>fence, or leſs then the offence; in which is its Juſtice or inju<g ref="char:EOLhyphen"/>ſtice: as, What equality is there between a few pence and a mans life, or a few ſhillings and a mans liberty, the maintain<g ref="char:EOLhyphen"/>ance of his family?</p>
+               <p>I farther commend the neceſſity, in execution of male<g ref="char:EOLhyphen"/>factors, that the witneſſes be the prime executioners, on whom the blood of the executed was to fall; and ſo alone the Nati<g ref="char:EOLhyphen"/>on to be free from the guilt thereof: which now this Nation is lyable to the gui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of all blood unjuſtly ſpilt, becauſe ſhed by others then the witneſſes, contrary to Gods inſtitution; It being the cuſtom of the witneſſes to ſay (in execution of male<g ref="char:EOLhyphen"/>factors) <hi>His blood be on us, and on our children;</hi> and ſo the Nation to be free thereby from it.</p>
+               <p>In the laſt place, I wiſh the now form of ſwearing men in judgement may be conſidered of by theſe Queries:</p>
+               <p>Firſt, Whether God gave his Name in judgement to be
+<pb n="26" facs="tcp:166730:15"/>ſworn by, but in that judgement his own Law preſcribes.</p>
+               <p n="2">2 Or whether the Name of God may be adminiſtred by men judging by humane Laws.</p>
+               <p n="3">3 Whether if men ſwear, they are to ſwear by lifting up the hand to God, and by God, or his Name, on or by a book.</p>
+               <p n="4">4 If by a book, whether by the Goſpel or the Law, which is the rule of judgement.</p>
+               <p n="5">5 Whether the now ſwearing upon the book be not a Po<g ref="char:EOLhyphen"/>piſh idol, and a meer deluſion.</p>
+               <p n="1">1 As it is diſtinct from God, and contrary to his inſtitu<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="2">2 As it is a corrupt tranſlation, and not indeed the truth of God.</p>
+               <p>All which its high time for the now Magiſtrate (profeſſing the knowledge of the true God) to look into, who hath ſo de<g ref="char:EOLhyphen"/>livered, and doth ſo deliver them; that they may deliver the Nation from bondage, and make them free according to God and his Truth in all things: To whom be praiſe and glory.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
